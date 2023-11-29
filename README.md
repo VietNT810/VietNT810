@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Việt</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A passionate developer from Vietnam</h3>
 </p>
 
 
@@ -13,9 +13,6 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
   <a href="https://www.facebook.com/vnt810" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -30,7 +27,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://icons8.com/icon/25Sjy8fKExYA/react-native"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
