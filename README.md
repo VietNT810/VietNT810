@@ -27,7 +27,8 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://icons8.com/icon/25Sjy8fKExYA/react-native"/>
+  ![image](https://github.com/VietNT810/VietNT810/assets/144643183/3075cb66-335e-48f7-91f9-04f45818626b)
+
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
